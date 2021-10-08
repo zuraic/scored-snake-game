@@ -1,5 +1,5 @@
 # Scored Snake Game
 
-snake game with score
+Snake game with score
 
-Day 24 |100 days of python
+Day 24 |100 Days of Python
